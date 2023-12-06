@@ -24,4 +24,4 @@ docker run my-monitoring-script
 ## demo
 
 ![Alt text](img/image.png)
-![Alt text](img/image2.png)
+![Alt text](img/image-2.png)
