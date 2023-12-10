@@ -4,8 +4,11 @@
 > 2. 用於Linux system
 > 3. 能夠偵測/etc/shadow
 
-
+## 流程
 ![Untitled Diagram drawio-3](https://github.com/CHUNG-HAO/Automatic-scheduling-Shellscript/assets/67829896/86522d7c-7a59-48c2-aa52-2719bf3c3e9a)
+
+## 架構
+![Untitled Diagram drawio-2](https://github.com/CHUNG-HAO/Automatic-scheduling-Shellscript/assets/67829896/7da9b4ef-fbcf-44f2-847a-b6b734aec77d)
 
 ## 如何運行
 > Bulid my dockerfile
